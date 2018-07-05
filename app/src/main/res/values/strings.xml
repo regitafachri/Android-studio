@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Magic Calculator</string>
+    <string name="hasil_penjumlahan">Hasil Penjumlahan</string>
+    <string name="hitung">Hitung</string>
+    <string name="masukan_angka_2">Masukan Angka 2</string>
+    <string name="masukan_angka_1">Masukan Angka 1</string>
+    <string name="title_activity_second">Daftar Absensi</string>
+    <string name="pindah_halaman">pindah halaman</string>
+</resources>
